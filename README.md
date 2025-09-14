@@ -50,7 +50,7 @@ The entire development process was documented through a time-lapse, showcasing t
 
 ### Check out my Demo Video!
 
-**[Project Submission Video](https://bit.ly/arduinosubmissionvideo)**
+**[Project Submission Video](https://www.sebastianpucher.com/submission-video)**
 
 ---
 
